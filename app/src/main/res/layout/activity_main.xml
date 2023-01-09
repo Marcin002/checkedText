@@ -13,13 +13,13 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="5."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.48" />
+        app:layout_constraintVertical_bias="0.647" />
 
     <CheckedTextView
         android:id="@+id/simpleCheckedTextView5"
@@ -28,7 +28,7 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="4. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -43,13 +43,13 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="7. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.62" />
+        app:layout_constraintVertical_bias="0.819" />
 
     <CheckedTextView
         android:id="@+id/simpleCheckedTextView7"
@@ -58,13 +58,13 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="6. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.691" />
+        app:layout_constraintVertical_bias="0.733" />
 
     <CheckedTextView
         android:id="@+id/simpleCheckedTextView8"
@@ -73,13 +73,13 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="8. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.761" />
+        app:layout_constraintVertical_bias="0.913" />
 
     <CheckedTextView
         android:id="@+id/simpleCheckedTextView3"
@@ -88,13 +88,13 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="3. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.409" />
+        app:layout_constraintVertical_bias="0.456" />
 
     <CheckedTextView
         android:id="@+id/simpleCheckedTextView2"
@@ -103,13 +103,13 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="2. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.339" />
+        app:layout_constraintVertical_bias="0.361" />
 
     <EditText
         android:id="@+id/editTextTextPersonName"
@@ -132,7 +132,7 @@
         android:checkMark="@drawable/checked"
         android:checked="true"
         android:gravity="center"
-        android:text="Checked Text View"
+        android:text="1. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
